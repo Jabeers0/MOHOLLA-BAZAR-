@@ -1,6 +1,6 @@
 // API credentials and sheet information
 // IMPORTANT: Replace these with your actual keys and IDs.
-const API_KEY = "ADD_GOOGLE_SHEETS_API_KEY_HERE";
+const API_KEY = "AIzaSyBObqQNtG4wOHODKtKHzCiljWhCRsE-E-s";
 const HOMEPAGE_SPREADSHEET_ID = "CATEGORY_SHEET_ID_HERE";
 const CATEGORY_SHEET_NAME = "Sheet1";
 const DISCORD_WEBHOOK_URL = "ADD_DISCORD_WEBHOOK_URL_HERE";
@@ -1590,4 +1590,5 @@ window.onload = () => {
         loadHomepage();
     }
 };
+
 
